@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+#project {
+  background-color: #e2edff;
+}
+#project .btn {
+  border-radius: 20px;
+  color: #fff;
+}
+#project a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+#contact a {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+section {
+  padding-top: 5rem;
+}

@@ -2,6 +2,14 @@
   margin: 0;
   padding: 0;
 }
+.navbar .nav-link,
+.navbar-brand,
+.offcanvas-title {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #fff;
+}
+
 .jumbotron {
   padding-top: 6rem;
   background-color: #e2edff;
@@ -15,14 +23,20 @@
 }
 #project a {
   text-decoration: none;
-  color: black;
+  color: blue;
   cursor: pointer;
+}
+#project a:hover {
+  color: black;
 }
 
 #contact a {
   text-decoration: none;
-  color: black;
+  color: blue;
   cursor: pointer;
+}
+#contact a:hover {
+  color: black;
 }
 
 section {
